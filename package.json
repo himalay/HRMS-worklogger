@@ -87,5 +87,7 @@
       }
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  }
 }
